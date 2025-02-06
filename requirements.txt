@@ -1,6 +1,7 @@
 streamlit
 openai-whisper
-pyaudio
+pyaudio==0.2.11
+
 gtts
 pygame
 langchain
