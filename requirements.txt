@@ -1,7 +1,7 @@
-pyaudio==0.2.11
-whisper==1.0
-streamlit==1.19.0
-gtts==2.3.1
-pygame==2.1.2
-langchain==0.0.148
-langchain-groq==0.0.1
+streamlit
+openai-whisper
+pyaudio
+gtts
+pygame
+langchain
+langchain_groq
